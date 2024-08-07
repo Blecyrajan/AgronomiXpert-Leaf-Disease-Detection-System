@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672640255078",
+    "project_id": "cropsight-app",
+    "storage_bucket": "cropsight-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672640255078:android:aaa5efda600c311c7799a7",
+        "android_client_info": {
+          "package_name": "com.example.cropsight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4bm4aPsN59m6VoC-Xkw4P1qJeLVc4J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
